@@ -8,5 +8,12 @@ welcome to my new file in GIT
 
 
 
+BEANS
+PIZZA
+
+
+
+Thank you
 
 doen with current version
+
